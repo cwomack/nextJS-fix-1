@@ -1,3 +1,5 @@
+// Configured with new GS Guide updates
+
 import { Amplify, API, withSSRContext } from 'aws-amplify';
 import Head from 'next/head';
 import { useRouter } from 'next/router';
